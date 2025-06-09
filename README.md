@@ -1,0 +1,1 @@
+# AI agent project using Google's free Gemini API
